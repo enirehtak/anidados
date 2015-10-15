@@ -1,0 +1,40 @@
+.cuadro{
+	width:300px;
+	height:300px;
+	margin:10px
+}
+.rojo{
+	background:red;
+	position:static;
+}
+.azul{
+	background:blue;
+	position:relative;
+}
+.chico{
+	width:150px;
+	height:150px;
+}
+.morado{
+	background:#800080 ;
+	position: relative;
+	left:75px;
+	top:75px;
+}
+.verde{
+	background:#2E8B57 ;
+	position:relative;
+	left:75px;
+}
+.peque{
+	width:75px;
+	height:75px;
+}
+.amarillo{
+	background:#FFFF00 ;
+	position:absolute;
+}
+.negro{
+	background:black;
+	position:static;
+}
